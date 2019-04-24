@@ -1,0 +1,23 @@
+data = {
+
+        1: {'Transaction Type': 'N', 'Mothers UR number': '', 'Date of confinement': '24/01/2019', 'Code Type': 'A', 'Mothers code': '03', 'facility_id': '370.0', 'load_id': '5569B7B7-104A-4E98-9789-B693332433D7'},
+
+        2: {'Transaction Type': 'N', 'Mothers UR number': '6297266', 'Date of confinement': '28/01/2019', 'Code Type': '1', 'Mothers code': '04', 'facility_id': '318.0', 'load_id': '5569B7B7-104A-4E98-9789-B693332433D7'},
+
+        3: {'Transaction Type': 'N', 'Mothers UR number': '6297266', 'Date of confinement': '28/01/1019', 'Code Type': '3', 'Mothers code': 'O469', 'facility_id': '318.0', 'load_id': '5569B7B7-104A-4E98-9789-B693332433D7'},
+
+        4: {'Transaction Type': 'N', 'Mothers UR number': '6297266', 'Date of confinement': '28/01/2019', 'Code Type': 'P', 'Mothers code': 'O321', 'facility_id': '318.0', 'load_id': '5569B7B7-104A-4E98-9789-B693332433D7'},
+
+        5: {'Transaction Type': 'N', 'Mothers UR number': '6297266', 'Date of confinement': '28/01/2029', 'Code Type': 'A', 'Mothers code': '03', 'facility_id': '318.0', 'load_id': '5569B7B7-104A-4E98-9789-B693332433D7'},
+
+        6: {'Transaction Type': 'N', 'Mothers UR number': '6297405', 'Date of confinement': '28/01/2019', 'Code Type': 'T', 'Mothers code': 'O470', 'facility_id': '318.0', 'load_id': '5569B7B7-104A-4E98-9789-B693332433D7'},
+
+        7: {'Transaction Type': 'N', 'Mothers UR number': '6297405', 'Date of confinement': '28/01/2019', 'Code Type': 'O', 'Mothers code': '3057200', 'facility_id': '318.0', 'load_id': '5569B7B7-104A-4E98-9789-B693332433D7'},
+
+        8: {'Transaction Type': 'N', 'Mothers UR number': '6297405', 'Date of confinement': '28/01/2019', 'Code Type': 'O', 'Mothers code': '9619919', 'facility_id': '318.0', 'load_id': '5569B7B7-104A-4E98-9789-B693332433D7'},
+
+        9: {'Transaction Type': 'N', 'Mothers UR number': '6297405', 'Date of confinement': '28/01/2019', 'Code Type': 'A', 'Mothers code': '03', 'facility_id': '318.0', 'load_id': '5569B7B7-104A-4E98-9789-B693332433D7'},
+
+        10: { 'Mothers UR number': '6298725', 'Date of confinement': '17/01/2019', 'Code Type': 'L', 'Mothers code': '10', 'facility_id': '3.0', 'load_id': '5569B7B7-104A-4E98-9789-B693332433D7'}
+
+    }

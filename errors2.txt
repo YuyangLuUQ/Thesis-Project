@@ -1,0 +1,26 @@
+
+#######################################################################
+#Attention: this functionality only checks the cell values based on 'Format' and 'description'#
+#Any other validations will be checked in other functionalities                                                   #
+#######################################################################
+
+Result for 'Transaction Type':
+The sample in row 11 does not have a valiable value for 'Transaction Type'.
+
+
+Result for 'Mothers UR number':
+The sample in row 2 does not have a valiable value for 'Mothers UR number'.
+
+
+Result for 'Date of confinement':
+The sample in row 6 does not have a valiable value for 'Date of confinement'.
+
+
+Result for 'Code Type':
+The sample in row 3 does not have a valiable value for 'Code Type'.
+The sample in row 4 does not have a valiable value for 'Code Type'.
+
+
+Result for 'Mothers code':
+The sample in row 3 cannot be checked, because it does not have a valid 'Code Type'.
+The sample in row 4 cannot be checked, because it does not have a valid 'Code Type'.
